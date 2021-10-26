@@ -168,5 +168,15 @@
         "singer": ["MC STAN"],
         "genre": ["Motivation","Pop"],
         "link": "https://youtu.be/YdIxAdTDpWU"
+    },
+ {
+        "id": 18,
+        "name": "Jannat Ve",
+        "lyrics": "https://www.lyricsgoal.com/jannat-ve-darshan-raval/",
+        "album": "Judaiya",
+        "Duration":"3 min 35 sec",
+        "singer": ["Darshan Raval"],
+        "genre": ["Motivation","Pop"],
+        "link": "https://www.youtube.com/watch?v=LLF3GMfNEYU"
     }
 ]
