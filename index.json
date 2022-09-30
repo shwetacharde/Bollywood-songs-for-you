@@ -178,5 +178,15 @@
         "singer": ["Darshan Raval"],
         "genre": ["Motivation","Pop"],
         "link": "https://www.youtube.com/watch?v=LLF3GMfNEYU"
-    }
+    },
+ {
+        "id": 19,
+        "name": "Udi Udi Jaye",
+        "lyrics": "https://www.lyricsmint.com/raees/udi-udi-jaye",
+        "album": "Raees",
+        "Duration":"4 min 20 sec",
+        "singer": ["Sukhwinder Singh","Bhoomi Trivedi","Karsan Sagathia"],
+        "genre": ["Celebration","Dance"],
+        "link": "https://www.jiosaavn.com/song/udi-udi-jaye/Gx8vZTwEX2o"
+    },
 ]
