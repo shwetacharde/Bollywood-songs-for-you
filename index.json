@@ -189,4 +189,14 @@
         "genre": ["Celebration","Dance"],
         "link": "https://www.jiosaavn.com/song/udi-udi-jaye/Gx8vZTwEX2o"
     },
+{
+        "id": 20,
+        "name": "Arziyaan",
+        "lyrics": "https://www.lyricsoff.com/songs/arziyan.html",
+        "album": "JIgariyaa",
+        "Duration":"4 min 21 sec",
+        "singer": ["Aishwarya Majmudar", "Vikrant Bhartiya"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=cRbd4eB4g04"
+    },
 ]
